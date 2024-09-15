@@ -2,7 +2,7 @@
   "name": "invitro-snippets",
   "displayName": "Invitro Snippets",
   "description": "Recopilación de trozos de código reutilizables.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "iv.png",
   "repository": {
     "type": "git",
