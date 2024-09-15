@@ -1,0 +1,20 @@
+{
+    "Generar Splide": {
+        "prefix": "invitro-splide",
+        "body": [
+            "function inicializarSplide(selector, opciones) {",
+            "    jQuery(document).ready(function (jQuery) {",
+            "        if (jQuery(selector).length) {",
+            "            new Splide(selector, opciones).mount();",
+            "        }",
+            "    });",
+            "}",
+            "",
+            "// Llama a la función para inicializar el slider con el selector y las opciones deseadas",
+            "inicializarSplide('${1:selector}', {",
+            "    ${2:// Agrega tus opciones aquí}",
+            "});"
+        ],
+        "description": "Snippet para inicializar un slider Splide con jQuery sin usar el alias $"
+    }
+}
