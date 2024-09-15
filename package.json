@@ -3,7 +3,13 @@
   "displayName": "Invitro Snippets",
   "description": "Recopilación de trozos de código reutilizables.",
   "version": "0.0.1",
-  "icon": "icono-invitro.webp",
+  "icon": "iv.webp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotGedomi/Invitro-Snippets"
+  },
+  "license": "MIT",
+  "publisher": "Gedomi",
   "engines": {
     "vscode": "^1.93.0"
   },
