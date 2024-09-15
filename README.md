@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Invitro Snippets
 
 **Invitro Snippets** es una extensión para Visual Studio Code que proporciona un conjunto útil de fragmentos de código para mejorar tu productividad en el desarrollo web. Esta extensión incluye snippets para PHP, HTML, JavaScript y CSS, lo que te permite insertar rápidamente trozos de código comunes en tus archivos de proyecto.
@@ -17,7 +16,3 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 ---
 
 ¡Gracias por usar **Invitro Snippets**! Esperamos que estos fragmentos te ayuden a codificar de manera más rápida y eficiente.
-=======
-# Invitro-Snippets
-Invitro Snippets es una extensión para Visual Studio Code que proporciona un conjunto útil de fragmentos de código para mejorar tu productividad en el desarrollo web. Esta extensión incluye snippets para PHP, HTML, JavaScript y CSS, lo que te permite insertar rápidamente trozos de código comunes en tus archivos de proyecto.
->>>>>>> 3180d138322757de063cf2f5d934cec1e53de7e9
